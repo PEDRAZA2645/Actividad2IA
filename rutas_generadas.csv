@@ -1,0 +1,20 @@
+Estacion Origen,Estacion Destino,Linea,Tiempo (min),Ruta Optima
+Tatooine,Alderaan,Ruta 1,10,Si
+Alderaan,Yavin IV,Ruta 2,20,Si
+Yavin IV,Hoth,Ruta 3,30,Si
+Hoth,Dagobah,Ruta 4,40,Si
+Dagobah,Bespin,Ruta 5,50,Si
+Bespin,Endor,Ruta 6,60,Si
+Endor,Naboo,Ruta 7,70,No
+Naboo,Coruscant,Ruta 8,80,No
+Coruscant,Kamino,Ruta 9,90,No
+Kamino,Mandalore,Ruta 10,100,No
+Tatooine,Yavin IV,Ruta 1 + Ruta 2,30,Si
+Alderaan,Hoth,Ruta 2 + Ruta 3,50,Si
+Yavin IV,Dagobah,Ruta 3 + Ruta 4,70,No
+Hoth,Bespin,Ruta 4 + Ruta 5,90,No
+Dagobah,Endor,Ruta 5 + Ruta 6,110,No
+Tatooine,Hoth,Ruta 1 + Ruta 2 + Ruta 3,60,Si
+Alderaan,Dagobah,Ruta 2 + Ruta 3 + Ruta 4,90,No
+Yavin IV,Bespin,Ruta 3 + Ruta 4 + Ruta 5,120,No
+Tatooine,Dagobah,Ruta 1 + Ruta 2 + Ruta 3 + Ruta 4,100,No
